@@ -2,7 +2,7 @@
 
 ## The team
 
-- Foo bar: email1
+- PICON Julien
 - bar bar: email2
 
 ## Comments
