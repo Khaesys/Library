@@ -3,6 +3,6 @@
 ## The team
 
 - PICON Julien
-- bar bar: email2
+- MORIN Guillaume
 
 ## Comments
